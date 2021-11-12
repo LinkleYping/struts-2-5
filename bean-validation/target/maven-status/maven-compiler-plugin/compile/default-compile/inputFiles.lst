@@ -1,0 +1,6 @@
+D:\CodeQL\cve\struts-2.5.10\src\plugins\bean-validation\src\main\java\org\apache\struts\beanvalidation\validation\constant\ValidatorConstants.java
+D:\CodeQL\cve\struts-2.5.10\src\plugins\bean-validation\src\main\java\org\apache\struts\beanvalidation\constraints\impl\FieldMatchValidator.java
+D:\CodeQL\cve\struts-2.5.10\src\plugins\bean-validation\src\main\java\org\apache\struts\beanvalidation\validation\interceptor\DefaultBeanValidationManager.java
+D:\CodeQL\cve\struts-2.5.10\src\plugins\bean-validation\src\main\java\org\apache\struts\beanvalidation\constraints\FieldMatch.java
+D:\CodeQL\cve\struts-2.5.10\src\plugins\bean-validation\src\main\java\org\apache\struts\beanvalidation\validation\interceptor\BeanValidationInterceptor.java
+D:\CodeQL\cve\struts-2.5.10\src\plugins\bean-validation\src\main\java\org\apache\struts\beanvalidation\validation\interceptor\BeanValidationManager.java
